@@ -1,0 +1,244 @@
+.u-section-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-slider-1 {
+  min-height: 1163px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 518px;
+  box-shadow: 0 -2px 8px 0 rgba(128,128,128,1);
+  margin-top: 148px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1.4;
+  font-size: 2.25rem;
+  width: 297px;
+  margin: 89px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-line-1 {
+  height: 3px;
+  transform-origin: left center 0px;
+  width: 678px;
+  margin: 11px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
+  background-image: none;
+  font-size: 1.25rem;
+  width: 525px;
+  margin: 75px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-size: 2.25rem;
+  animation-duration: 1250ms;
+  margin: 19px 23px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 1.2em;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-image-2 {
+  height: 512px;
+  margin-top: 119px;
+  margin-bottom: 0;
+  animation-duration: 1000ms;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 2.25rem;
+  margin: 87px auto 0;
+}
+
+.u-section-1 .u-line-2 {
+  width: 438px;
+  height: 3px;
+  transform-origin: left center 0px;
+  margin: 17px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  width: 809px;
+  animation-duration: 1000ms;
+  margin: 99px auto 0;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  width: 70px;
+  height: 70px;
+  background-image: none;
+  left: 0;
+  position: absolute;
+  box-shadow: -2px 0 8px 0px rgba(128,128,128,0);
+  top: 423px;
+  right: auto;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  width: 70px;
+  height: 70px;
+  background-image: none;
+  left: auto;
+  position: absolute;
+  box-shadow: -2px 0 8px 0px rgba(128,128,128,0);
+  top: 397px;
+  right: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-line-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 132px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 314px;
+    width: 710px;
+    margin-top: 216px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 21px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    height: 230px;
+    width: 520px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-carousel-indicators-1 {
+    top: auto;
+    bottom: 14px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 169px;
+    margin-top: 246px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 39px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 340px;
+    margin-top: 39px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    margin-top: 8px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 175px;
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 205px;
+    margin-top: 196px;
+    filter: brightness(0.85);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-line-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 340px;
+    animation-duration: 500ms;
+  }
+
+  .u-section-1 .u-carousel-control-1 {
+    top: 336px;
+  }
+
+  .u-section-1 .u-carousel-control-2 {
+    top: 336px;
+  }
+}
